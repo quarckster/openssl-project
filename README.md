@@ -1,6 +1,10 @@
 # Project
 
-This is the internal repository for the OpenSSL project. It serves as a hub for tracking the progress of our work, hosting project artifacts, discussions, issues, and project management related documents. This repository does not contain the source code.
+This is the internal repository for the OpenSSL project.
+It serves as a hub for tracking the progress of our engineering work,
+hosting project management artifacts, discussions, issues, and documents
+related to the project management.
 
-* [Project Board](https://github.com/orgs/openssl/projects/2)
-* [Project Board Handbook](PROJECT-HANDBOOK.md)
+This repository does not contain the source code.
+
+* [Development Board](https://github.com/orgs/openssl/projects/20)
